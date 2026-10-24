@@ -1,7 +1,5 @@
 # 🌌 Nocturne — Aurora & Dark-Sky Visibility Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-sisukpl.github.io%2Fnocturne-06b6d4?style=for-the-badge&logo=github)](https://sisukpl.github.io/nocturne/)
-
 > 🌐 **Live Web Application:** [https://sisukpl.github.io/nocturne/](https://sisukpl.github.io/nocturne/)
 
 A single-page, real-time astronomy and space weather dashboard built with **Vite**, **Tailwind CSS v3**, and **React**. Nocturne connects directly to the free **Open-Meteo Astronomy & Hourly Forecast API** and **NOAA Space Weather Prediction Center (SWPC)** JSON telemetry.
