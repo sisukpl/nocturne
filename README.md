@@ -32,7 +32,7 @@ A single-page, real-time astronomy and space weather dashboard built with **Vite
 5. **Location Controls**:
    - 1-click **Browser Geolocation** (with automatic fallback to Network IP geolocation).
    - **Worldwide Search** via Open-Meteo Geocoding.
-   - **Featured Hotspots**: Ludvika (Sweden), Abisko (Sweden), Tromsø (Norway), Fairbanks (Alaska), Reykjavik (Iceland), Jasper (Canada), Cherry Springs (PA), Mauna Kea (Hawaii), and Lake Tekapo (New Zealand).
+   - **Featured Hotspots**: Abisko (Sweden), Tromsø (Norway), Fairbanks (Alaska), Reykjavik (Iceland), Jasper (Canada), Cherry Springs (PA), Mauna Kea (Hawaii), and Lake Tekapo (New Zealand).
    - **`localStorage` Persistence**: Your selected location is automatically remembered.
 
 ---
