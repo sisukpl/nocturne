@@ -65,3 +65,10 @@ npm run build
 ## 🛰️ Data Sources
 - **Space Weather**: [NOAA Space Weather Prediction Center (SWPC)](https://services.swpc.noaa.gov/)
 - **Weather & Astronomy**: [Open-Meteo Weather API](https://open-meteo.com/)
+
+---
+
+## 🤖 Build Prompt for AI Coding Agents
+Want to rebuild, extend, or customize this application in **Google Antigravity**, **Claude Code**, or **Cursor**? 
+The complete battle-tested specification is documented in [**PROMPT.md**](./PROMPT.md).
+
